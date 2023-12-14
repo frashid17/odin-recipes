@@ -1,0 +1,23 @@
+html{
+    background-color: black;
+}
+h1{
+    text-decoration: underline;
+    text-align: center;
+    color: transparent;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcO2-6Ng1LLQJbE4S665iZMFU5cLAPYikX2A&usqp=CAU);
+    background-size: cover;
+    background-clip: text;
+    font-size: 50px;
+
+}
+li{
+  color: rgb(100, 141, 11);
+  list-style-type:circle;
+  list-style-position: outside;
+}
+ul{
+  font-size: 30px;
+  display:inline-block; 
+  text-transform: capitalize;
+}

@@ -1,0 +1,15 @@
+*{
+    font: 10px Arial;
+}
+.heading{
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: large;
+        text-decoration: underline;
+}
+img{
+    image-orientation: auto;
+   
+    max-width: 100%;
+    height: auto;
+}
